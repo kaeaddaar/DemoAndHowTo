@@ -1,0 +1,17 @@
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Debug\netcoreapp2.1\TestDecisionTree.deps.json
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Debug\netcoreapp2.1\TestDecisionTree.runtimeconfig.json
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Debug\netcoreapp2.1\TestDecisionTree.runtimeconfig.dev.json
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Debug\netcoreapp2.1\TestDecisionTree.dll
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Debug\netcoreapp2.1\TestDecisionTree.pdb
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Debug\netcoreapp2.1\libDecisionTree.dll
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Debug\netcoreapp2.1\libDecisionTree.pdb
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Debug\netcoreapp2.1\TestDecisionTree.csprojAssemblyReference.cache
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Debug\netcoreapp2.1\TestDecisionTree.csproj.CoreCompileInputs.cache
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Debug\netcoreapp2.1\TestDecisionTree.AssemblyInfoInputs.cache
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Debug\netcoreapp2.1\TestDecisionTree.AssemblyInfo.cs
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Debug\netcoreapp2.1\TestDecisionTree.csproj.CopyComplete
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Debug\netcoreapp2.1\TestDecisionTree.dll
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Debug\netcoreapp2.1\TestDecisionTree.pdb
