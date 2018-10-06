@@ -1,0 +1,17 @@
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Release\netcoreapp2.1\TestDecisionTree.deps.json
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Release\netcoreapp2.1\TestDecisionTree.runtimeconfig.json
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Release\netcoreapp2.1\TestDecisionTree.runtimeconfig.dev.json
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Release\netcoreapp2.1\TestDecisionTree.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Release\netcoreapp2.1\TestDecisionTree.pdb
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Release\netcoreapp2.1\libDecisionTree.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\bin\Release\netcoreapp2.1\libDecisionTree.pdb
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Release\netcoreapp2.1\TestDecisionTree.csprojAssemblyReference.cache
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Release\netcoreapp2.1\TestDecisionTree.csproj.CoreCompileInputs.cache
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Release\netcoreapp2.1\TestDecisionTree.AssemblyInfoInputs.cache
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Release\netcoreapp2.1\TestDecisionTree.AssemblyInfo.cs
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Release\netcoreapp2.1\TestDecisionTree.csproj.CopyComplete
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Release\netcoreapp2.1\TestDecisionTree.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\TestDecisionTree\obj\Release\netcoreapp2.1\TestDecisionTree.pdb

@@ -1,0 +1,8 @@
+E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\bin\Release\netstandard2.0\libDecisionTree.deps.json
+E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\bin\Release\netstandard2.0\libDecisionTree.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\bin\Release\netstandard2.0\libDecisionTree.pdb
+E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\obj\Release\netstandard2.0\libDecisionTree.csproj.CoreCompileInputs.cache
+E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\obj\Release\netstandard2.0\libDecisionTree.AssemblyInfoInputs.cache
+E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\obj\Release\netstandard2.0\libDecisionTree.AssemblyInfo.cs
+E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\obj\Release\netstandard2.0\libDecisionTree.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\obj\Release\netstandard2.0\libDecisionTree.pdb

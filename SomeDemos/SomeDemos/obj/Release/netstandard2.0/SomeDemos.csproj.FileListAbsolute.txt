@@ -1,0 +1,8 @@
+E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\bin\Release\netstandard2.0\SomeDemos.deps.json
+E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\bin\Release\netstandard2.0\SomeDemos.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\bin\Release\netstandard2.0\SomeDemos.pdb
+E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\obj\Release\netstandard2.0\SomeDemos.csproj.CoreCompileInputs.cache
+E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\obj\Release\netstandard2.0\SomeDemos.AssemblyInfoInputs.cache
+E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\obj\Release\netstandard2.0\SomeDemos.AssemblyInfo.cs
+E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\obj\Release\netstandard2.0\SomeDemos.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\obj\Release\netstandard2.0\SomeDemos.pdb
