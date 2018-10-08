@@ -2692,7 +2692,7 @@
       ]
     },
     "runtime.native.System/4.3.0": {
-      "sha512": "c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
+      "sha512": "K3iWzQFTkvi42Z3B0F2wCtyeR4QPRofNwtSSfmHGDFGTGWqEvlL5gAwbXP7RLfUvq5m1so7LiAF8NFy//talCg==",
       "type": "package",
       "path": "runtime.native.system/4.3.0",
       "files": [
@@ -5739,23 +5739,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cmackay\\.nuget\\packages\\": {},
+    "C:\\Users\\playi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\TestDecisionTree\\TestDecisionTree.csproj",
+      "projectUniqueName": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\TestDecisionTree\\TestDecisionTree.csproj",
       "projectName": "TestDecisionTree",
-      "projectPath": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\TestDecisionTree\\TestDecisionTree.csproj",
-      "packagesPath": "C:\\Users\\cmackay\\.nuget\\packages\\",
-      "outputPath": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\TestDecisionTree\\obj\\",
+      "projectPath": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\TestDecisionTree\\TestDecisionTree.csproj",
+      "packagesPath": "C:\\Users\\playi\\.nuget\\packages\\",
+      "outputPath": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\TestDecisionTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\cmackay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\playi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5768,8 +5768,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\DecisionTree\\libDecisionTree.csproj": {
-              "projectPath": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\DecisionTree\\libDecisionTree.csproj"
+            "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\DecisionTree\\libDecisionTree.csproj": {
+              "projectPath": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\DecisionTree\\libDecisionTree.csproj"
             }
           }
         }

@@ -1,12 +1,3 @@
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\bin\Debug\netstandard2.0\libDecisionTree.deps.json
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\bin\Debug\netstandard2.0\libDecisionTree.dll
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\bin\Debug\netstandard2.0\libDecisionTree.pdb
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.csprojAssemblyReference.cache
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.csproj.CoreCompileInputs.cache
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.AssemblyInfoInputs.cache
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.AssemblyInfo.cs
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.dll
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.pdb
 E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\bin\Debug\netstandard2.0\libDecisionTree.deps.json
 E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\bin\Debug\netstandard2.0\libDecisionTree.dll
 E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\bin\Debug\netstandard2.0\libDecisionTree.pdb
@@ -16,3 +7,11 @@ E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\lib
 E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.AssemblyInfo.cs
 E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.dll
 E:\_Programming\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.pdb
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\bin\Debug\netstandard2.0\libDecisionTree.deps.json
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\bin\Debug\netstandard2.0\libDecisionTree.dll
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\bin\Debug\netstandard2.0\libDecisionTree.pdb
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.csproj.CoreCompileInputs.cache
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.AssemblyInfoInputs.cache
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.AssemblyInfo.cs
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.dll
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\DecisionTree\obj\Debug\netstandard2.0\libDecisionTree.pdb

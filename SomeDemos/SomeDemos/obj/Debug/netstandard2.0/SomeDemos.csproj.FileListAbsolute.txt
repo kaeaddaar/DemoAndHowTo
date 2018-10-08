@@ -1,12 +1,3 @@
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\bin\Debug\netstandard2.0\SomeDemos.deps.json
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\bin\Debug\netstandard2.0\SomeDemos.dll
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\bin\Debug\netstandard2.0\SomeDemos.pdb
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.csprojAssemblyReference.cache
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.csproj.CoreCompileInputs.cache
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.AssemblyInfoInputs.cache
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.AssemblyInfo.cs
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.dll
-C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.pdb
 E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\bin\Debug\netstandard2.0\SomeDemos.deps.json
 E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\bin\Debug\netstandard2.0\SomeDemos.dll
 E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\bin\Debug\netstandard2.0\SomeDemos.pdb
@@ -16,3 +7,12 @@ E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDe
 E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.AssemblyInfo.cs
 E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.dll
 E:\_Programming\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.pdb
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\bin\Debug\netstandard2.0\SomeDemos.deps.json
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\bin\Debug\netstandard2.0\SomeDemos.dll
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\bin\Debug\netstandard2.0\SomeDemos.pdb
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.csprojAssemblyReference.cache
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.csproj.CoreCompileInputs.cache
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.AssemblyInfoInputs.cache
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.AssemblyInfo.cs
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.dll
+C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\SomeDemos\obj\Debug\netstandard2.0\SomeDemos.pdb

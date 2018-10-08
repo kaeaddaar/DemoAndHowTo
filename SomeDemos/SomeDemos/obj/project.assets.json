@@ -176,23 +176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cmackay\\.nuget\\packages\\": {},
+    "C:\\Users\\playi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\SomeDemos\\SomeDemos.csproj",
+      "projectUniqueName": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\SomeDemos\\SomeDemos.csproj",
       "projectName": "SomeDemos",
-      "projectPath": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\SomeDemos\\SomeDemos.csproj",
-      "packagesPath": "C:\\Users\\cmackay\\.nuget\\packages\\",
-      "outputPath": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\SomeDemos\\obj\\",
+      "projectPath": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\SomeDemos\\SomeDemos.csproj",
+      "packagesPath": "C:\\Users\\playi\\.nuget\\packages\\",
+      "outputPath": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\SomeDemos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\cmackay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\playi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
