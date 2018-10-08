@@ -6,7 +6,7 @@ namespace libRegex
 {
     public static class RegexExpressions
     {
-        // /(\+?[0-9]{3})(-| )([0-9]{3})(-| )([0-9]{4})/g
+        // /(\+?[0-9]{3})(-| )([0-9]{3})(-| )([0-9]{4})/g    note that the opening / and following /g are not needed
         //const string PhoneNumberExpression = "/" + @"(\+?[0-9]{3})" + @"( |-)" + @"([0-9]{3})" + @"( |-)" + @"([0-9]{4})" + "/g";
         const string PhoneNumberExpression = @"(\+?[0-9]{3})" + @"( |-)" + @"([0-9]{3})" + @"( |-)" + @"([0-9]{4})";
         public static MatchCollection GetPhoneNumbers(string MayContainPhoneNumbers)
