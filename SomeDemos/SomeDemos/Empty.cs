@@ -2,7 +2,7 @@
 
 namespace SomeDemos
 {
-    public class Class1
+    public class Empty
     {
     }
 }
