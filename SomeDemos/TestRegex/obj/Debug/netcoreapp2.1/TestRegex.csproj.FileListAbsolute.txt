@@ -1,0 +1,17 @@
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\bin\Debug\netcoreapp2.1\TestRegex.deps.json
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\bin\Debug\netcoreapp2.1\TestRegex.runtimeconfig.json
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\bin\Debug\netcoreapp2.1\TestRegex.runtimeconfig.dev.json
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\bin\Debug\netcoreapp2.1\TestRegex.dll
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\bin\Debug\netcoreapp2.1\TestRegex.pdb
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\bin\Debug\netcoreapp2.1\libRegex.dll
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\bin\Debug\netcoreapp2.1\libRegex.pdb
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\obj\Debug\netcoreapp2.1\TestRegex.csprojAssemblyReference.cache
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\obj\Debug\netcoreapp2.1\TestRegex.csproj.CoreCompileInputs.cache
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\obj\Debug\netcoreapp2.1\TestRegex.AssemblyInfoInputs.cache
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\obj\Debug\netcoreapp2.1\TestRegex.AssemblyInfo.cs
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\obj\Debug\netcoreapp2.1\TestRegex.csproj.CopyComplete
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\obj\Debug\netcoreapp2.1\TestRegex.dll
+C:\_Programming\Projects\kaeaddaar\DemoAndHowTo\SomeDemos\TestRegex\obj\Debug\netcoreapp2.1\TestRegex.pdb
