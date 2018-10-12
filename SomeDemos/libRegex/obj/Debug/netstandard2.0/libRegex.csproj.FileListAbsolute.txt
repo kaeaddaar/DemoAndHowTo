@@ -16,3 +16,12 @@ C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\libRegex\obj\Debug\netstandard2.0\libRege
 C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\libRegex\obj\Debug\netstandard2.0\libRegex.AssemblyInfo.cs
 C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\libRegex\obj\Debug\netstandard2.0\libRegex.dll
 C:\_P\kaeaddaar\DemoAndHowTo\SomeDemos\libRegex\obj\Debug\netstandard2.0\libRegex.pdb
+E:\_Programming\DemoAndHowTo\SomeDemos\libRegex\bin\Debug\netstandard2.0\libRegex.deps.json
+E:\_Programming\DemoAndHowTo\SomeDemos\libRegex\bin\Debug\netstandard2.0\libRegex.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\libRegex\bin\Debug\netstandard2.0\libRegex.pdb
+E:\_Programming\DemoAndHowTo\SomeDemos\libRegex\obj\Debug\netstandard2.0\libRegex.csprojAssemblyReference.cache
+E:\_Programming\DemoAndHowTo\SomeDemos\libRegex\obj\Debug\netstandard2.0\libRegex.csproj.CoreCompileInputs.cache
+E:\_Programming\DemoAndHowTo\SomeDemos\libRegex\obj\Debug\netstandard2.0\libRegex.AssemblyInfoInputs.cache
+E:\_Programming\DemoAndHowTo\SomeDemos\libRegex\obj\Debug\netstandard2.0\libRegex.AssemblyInfo.cs
+E:\_Programming\DemoAndHowTo\SomeDemos\libRegex\obj\Debug\netstandard2.0\libRegex.dll
+E:\_Programming\DemoAndHowTo\SomeDemos\libRegex\obj\Debug\netstandard2.0\libRegex.pdb

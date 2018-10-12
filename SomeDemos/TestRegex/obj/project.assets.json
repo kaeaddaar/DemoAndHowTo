@@ -2692,7 +2692,7 @@
       ]
     },
     "runtime.native.System/4.3.0": {
-      "sha512": "K3iWzQFTkvi42Z3B0F2wCtyeR4QPRofNwtSSfmHGDFGTGWqEvlL5gAwbXP7RLfUvq5m1so7LiAF8NFy//talCg==",
+      "sha512": "c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
       "type": "package",
       "path": "runtime.native.system/4.3.0",
       "files": [
@@ -5739,23 +5739,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\playi\\.nuget\\packages\\": {},
+    "C:\\Users\\cmackay\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\TestRegex\\TestRegex.csproj",
+      "projectUniqueName": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\TestRegex\\TestRegex.csproj",
       "projectName": "TestRegex",
-      "projectPath": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\TestRegex\\TestRegex.csproj",
-      "packagesPath": "C:\\Users\\playi\\.nuget\\packages\\",
-      "outputPath": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\TestRegex\\obj\\",
+      "projectPath": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\TestRegex\\TestRegex.csproj",
+      "packagesPath": "C:\\Users\\cmackay\\.nuget\\packages\\",
+      "outputPath": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\TestRegex\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\playi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cmackay\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5768,8 +5768,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\libRegex\\libRegex.csproj": {
-              "projectPath": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\libRegex\\libRegex.csproj"
+            "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\libRegex\\libRegex.csproj": {
+              "projectPath": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\libRegex\\libRegex.csproj"
             }
           }
         }

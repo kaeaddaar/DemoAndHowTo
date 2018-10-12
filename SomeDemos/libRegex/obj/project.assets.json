@@ -176,23 +176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\playi\\.nuget\\packages\\": {},
+    "C:\\Users\\cmackay\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\libRegex\\libRegex.csproj",
+      "projectUniqueName": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\libRegex\\libRegex.csproj",
       "projectName": "libRegex",
-      "projectPath": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\libRegex\\libRegex.csproj",
-      "packagesPath": "C:\\Users\\playi\\.nuget\\packages\\",
-      "outputPath": "C:\\_P\\kaeaddaar\\DemoAndHowTo\\SomeDemos\\libRegex\\obj\\",
+      "projectPath": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\libRegex\\libRegex.csproj",
+      "packagesPath": "C:\\Users\\cmackay\\.nuget\\packages\\",
+      "outputPath": "E:\\_Programming\\DemoAndHowTo\\SomeDemos\\libRegex\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\playi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cmackay\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

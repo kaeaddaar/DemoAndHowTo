@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libDecisionTree", "Decision
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestDecisionTree", "TestDecisionTree\TestDecisionTree.csproj", "{895D1C4E-3501-49ED-AD19-09B8922E676C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libRegex", "libRegex\libRegex.csproj", "{3FCC6439-3AFB-44D8-8E70-4FCFFEDCAFC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libRegex", "libRegex\libRegex.csproj", "{3FCC6439-3AFB-44D8-8E70-4FCFFEDCAFC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRegex", "TestRegex\TestRegex.csproj", "{D23960CD-4A93-4C85-AE16-161A1AE8639D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestRegex", "TestRegex\TestRegex.csproj", "{D23960CD-4A93-4C85-AE16-161A1AE8639D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libExploringHexidecimals", "ExploringHexidecimals\libExploringHexidecimals.csproj", "{7D282070-D417-45A3-8C15-393145886566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExploringHexidecimals", "TestExploringHexidecimals\TestExploringHexidecimals.csproj", "{94027441-D427-4E67-B1F8-4A161FA8C642}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{D23960CD-4A93-4C85-AE16-161A1AE8639D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D23960CD-4A93-4C85-AE16-161A1AE8639D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D23960CD-4A93-4C85-AE16-161A1AE8639D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D282070-D417-45A3-8C15-393145886566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D282070-D417-45A3-8C15-393145886566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D282070-D417-45A3-8C15-393145886566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D282070-D417-45A3-8C15-393145886566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94027441-D427-4E67-B1F8-4A161FA8C642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94027441-D427-4E67-B1F8-4A161FA8C642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94027441-D427-4E67-B1F8-4A161FA8C642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94027441-D427-4E67-B1F8-4A161FA8C642}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
